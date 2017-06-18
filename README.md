@@ -1,4 +1,4 @@
-# EndPun Material Minecraft Pack
+# EndPun Ultimate Resource Pack
 Original EndPun Texture Pack
 
 
@@ -8,6 +8,7 @@ A Minecraft resource pack that combines Google's Material Design and modern flat
 
 # Credits
 See contributors list for profile links.
+Read Licence before attempting to download or decompile.
 
 - EnDylan
 - Punzy
